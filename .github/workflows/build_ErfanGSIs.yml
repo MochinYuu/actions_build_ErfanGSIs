@@ -15,8 +15,8 @@ on:
     
 env:
   ROM_URL: http://sysuptxdl.vivo.com.cn/upgrade/recovery/recoveryFiles/20220425144209464e6ef388351d7163196358a638d2c7.zip
-  ROM_NAME: Pixel
-  BUILD_TYPE: a-only
+  ROM_NAME: Generic
+  BUILD_TYPE: aonly
   TZ: Asia/Shanghai
 
 jobs:
